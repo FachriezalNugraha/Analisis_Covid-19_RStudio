@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598192352796.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3C0AB993",
+    "lastKnownWriteTime" : 3548067076488918113,
+    "last_content_update" : 1598192352796,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F6BA55A0",
+        "caption" : "cov_yogya",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cov_yogya&cache_key=F6BA55A0",
+        "displayedObservations" : "161",
+        "environment" : "",
+        "expression" : "cov_yogya",
+        "object" : "cov_yogya",
+        "preview" : "0",
+        "totalObservations" : "161",
+        "variables" : "9"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

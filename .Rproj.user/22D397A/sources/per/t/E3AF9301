@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598197892755.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E3AF9301",
+    "lastKnownWriteTime" : 8370051484049156392,
+    "last_content_update" : 1598197892755,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "40D5FAD7",
+        "caption" : "cov_yogya_akumulasi",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cov_yogya_akumulasi&cache_key=40D5FAD7",
+        "displayedObservations" : 161,
+        "environment" : "",
+        "expression" : "cov_yogya_akumulasi",
+        "object" : "cov_yogya_akumulasi",
+        "preview" : 0,
+        "totalObservations" : 161,
+        "variables" : 4
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

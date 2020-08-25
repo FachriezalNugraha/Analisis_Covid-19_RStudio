@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598198856724.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ABB1C698",
+    "lastKnownWriteTime" : 3060959070808,
+    "last_content_update" : 1598198856724,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CF006570",
+        "caption" : "cov_yogya_akumulasi_pivot",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cov_yogya_akumulasi_pivot&cache_key=CF006570",
+        "displayedObservations" : 483,
+        "environment" : "",
+        "expression" : "cov_yogya_akumulasi_pivot",
+        "object" : "cov_yogya_akumulasi_pivot",
+        "preview" : 0,
+        "totalObservations" : 483,
+        "variables" : 3
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
